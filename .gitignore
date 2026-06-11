@@ -1,0 +1,11 @@
+﻿# Trade_1
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+Thumbs.db
+*.bak
+*.zip
+.env
+*.log
+.streamlit/secrets.toml
